@@ -1,0 +1,6 @@
+### template
+__pycacha__/
+log/
+docker-compose.yaml
+resources/products.json
+*.py[cod]
